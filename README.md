@@ -1,4 +1,3 @@
-# Gmail-based_Control
 This C++ project, developed by our group from class 23TNT1 at the VNUHCM - University of Science, implements a Server-Client model controlled via Gmail. This innovative system allows users to remotely manage computer activities through their Gmail accounts. Our team, comprising Tran Ta Quang Minh, Lam Hoang Vu, and myself, Nguyen Viet Hung, successfully completed this project under the guidance of Lecturer Do Hoang Cuong as part of the Computer Networks course.
 # USING
 You'll need to download the following libraries:
