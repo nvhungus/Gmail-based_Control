@@ -6,7 +6,7 @@ You'll need to download the following libraries:
 2. nlohmann
 3. wxWidgets
 4. OpenCV
-5. For your convenience, you can use vcpkg to install cURL, nlohmann, and wxWidgets.
+For your convenience, you can use vcpkg to install cURL, nlohmann, and wxWidgets.
 # DEMO
 Link: ⁦https://youtu.be/dsvJi_y0zuo
 # SUMMARY
